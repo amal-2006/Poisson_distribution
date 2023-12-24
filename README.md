@@ -1,4 +1,4 @@
-## DATE
+## DATE:
 # Experiment 02: Fitting Poisson  distribution
 # Aim: 
 
